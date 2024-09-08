@@ -21,7 +21,7 @@ for p in l:
     shader_src=shader_src.replace('iChannel2','iChannel3')
 
     with open(f'{path_dst}/image.frag','w') as f:
-        f.write('#version 130\n'+shader_src)
+        f.write('//#version 130\n'+shader_src)
 
     if len(image_properties)>0:
         image_property=image_properties[0]

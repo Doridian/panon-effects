@@ -1,4 +1,4 @@
-#version 130
+//#version 130
 
 #define pixel_fill $bar_width
 #define pixel_empty $gap_width

@@ -1,4 +1,4 @@
-#version 130
+//#version 130
 
 #define background_color_and_opacity $background_color_and_opacity
 #define max_life_time 100

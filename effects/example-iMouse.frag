@@ -1,4 +1,4 @@
-#version 130
+//#version 130
 
 void mainImage( out vec4 fragColor, in vec2 fragCoord ) {
     fragColor=vec4(0.001,0.001,0.001,0.001);

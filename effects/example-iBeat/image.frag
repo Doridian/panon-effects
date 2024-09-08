@@ -1,4 +1,4 @@
-#version 130
+//#version 130
 
 void mainImage( out vec4 fragColor, in vec2 fragCoord ) {
     fragCoord=fragCoord/iResolution.xy;

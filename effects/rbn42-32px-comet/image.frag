@@ -1,4 +1,4 @@
-#version 130
+//#version 130
 /*
  * This shader is adapted from https://www.shadertoy.com/view/lldyDs, created by
  * eclmist (https://www.shadertoy.com/user/eclmist), licensed under a Creative

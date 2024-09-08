@@ -1,4 +1,4 @@
-#version 130
+//#version 130
 // Adapted from https://www.shadertoy.com/view/Ml2GWy. Looks better with range from 0 to 1,800Hz
 // Created by inigo quilez - iq/2015
 // License Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License.
